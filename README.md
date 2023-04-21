@@ -1,6 +1,8 @@
 # Virtual Song List
 This project aims to create an expansive song list so the user can store and read their lyrics at any given time.
 
+Hello, my name is Paul
+
 ## Requirements
 - The project must be written in Java
 - The app must:
